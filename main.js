@@ -85,3 +85,5 @@ productList.push({
 });
 
 createProductCards(productList);
+
+document.get
